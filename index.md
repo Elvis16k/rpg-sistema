@@ -1,11 +1,8 @@
-# 📖 Sistema de RPG
+# 📘 Sistema de RPG
 
 Bem-vindo ao sistema!
 
-## 📚 Navegação
+## Navegação
 
-- [[ATRIBUTOS]]
-- [[PERÍCIAS]]
-- [[SISTEMA DE DANO]]
-- [[FICHA DE PERSONAGEM]]
-- [[ITENS]]
+- [Sistema](sistema.md)
+- [Ficha](moldeficha.md)
